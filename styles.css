@@ -4,9 +4,10 @@
     width: auto;
 }
 .main{
-    padding: 20px;
+    
     display: flex;
     height: 600px;
+    justify-content: center;
     
 }
 .copyright{
@@ -38,12 +39,14 @@
     color: #f9faf8;
     font-size: 24px;
     font-weight: bolder;
+    display: flex;
+    align-items: center;
 }
 .header{
     display: flex;
     justify-content: space-between;
     height: 100px;
-    width: 100%;
+    width: 70%;
 }
 .spacer{
     width: 1200px;
