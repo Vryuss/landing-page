@@ -21,9 +21,6 @@
     width: auto;
     height: 250px;
 }
-.info{
-    height: 600px;
-}
 .sign-up{
     height: 500px;
 }
@@ -68,7 +65,7 @@ h1{
 }
 p{
     font-size: 18px;
-    color: #e5e7eb;
+    color: grey;
     
 }
 button{
@@ -96,4 +93,36 @@ button{
 }
 .read{
     flex: 0 1 50%;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 40px;
+    height: 500px;
+}
+.blue-placeholder{
+    width: 200px;
+    height: 200px;
+    background-color: #3882f6;
+    border-radius: 5px;
+}
+.gallery{
+    display: flex;
+    width: 70%;
+}
+.img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+.random{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+.sub-image{
+    text-align: center;
 }
