@@ -1,0 +1,45 @@
+.main,
+.copyright{
+    background-color: #1f2937;
+    width: auto;
+}
+.main{
+    padding: 20px;
+    display: flex;
+    height: 600px;
+    
+}
+.copyright{
+    height: 100px;
+}
+.info,
+.sign-up{
+    background-color: white;
+    width: auto;
+    height: 250px;
+}
+.info{
+    height: 600px;
+}
+.sign-up{
+    height: 500px;
+}
+.quote{
+    background-color: #e5e7eb;
+    width: auto;
+    height: 500px;
+}
+.bg{
+    display: flex;
+    flex-direction: column;
+}
+.logo{
+    padding: 20px;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+}
+.spacer{
+    width: 1200px;
+}
