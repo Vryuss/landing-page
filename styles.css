@@ -35,11 +35,24 @@
 }
 .logo{
     padding: 20px;
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bolder;
 }
 .header{
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
+    height: 100px;
+    width: 100%;
 }
 .spacer{
     width: 1200px;
+}
+.links{
+    display: flex;
+}
+.link{
+    padding: 20px;
+    font-size: 18px;
+    color: #e5e7eb;
 }
