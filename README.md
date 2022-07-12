@@ -3,5 +3,4 @@ TOP project sample page where I was tasked to recreate a sample landing page ima
 
 ## What I learned:
 
-How to apply CSS and HTML Principles
-Flexbox
+How to apply CSS and HTML Principles and Flexbox
